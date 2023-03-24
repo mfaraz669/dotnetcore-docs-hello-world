@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'farazportal'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_70F74E8F9E7943ECB1DD49E1947C605D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_70563AE34F9342719F98C0DC8408643B }}
           package: .
